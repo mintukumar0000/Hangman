@@ -36,7 +36,7 @@
 <h2>🛠️ Installation & Setup</h2>
 <pre>
 1. Clone the repository:
-   <code>git clone https://github.com/yourusername/hangman-game.git</code>
+   <code>git clone https://github.com/mintukumar0000/hangman-game.git</code>
 
 2. Navigate to the project folder:
    <code>cd hangman-game</code>
