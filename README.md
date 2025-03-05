@@ -16,7 +16,7 @@
 
 ---
 
-<h2>✨ Features</h2>
+<h2>✨ Features.</h2>
 <ul>
   <li><b>Hint System:</b> Helps players by providing word categories.</li>
   <li><b>Real-Time Feedback:</b> Updates the word and hangman figure dynamically based on guesses.</li>
