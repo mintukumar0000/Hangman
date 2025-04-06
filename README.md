@@ -6,7 +6,7 @@
 
 ---
 
-<h2>🎮 How It Works</h2>
+<h2>🎮 How It Works?</h2>
 <ol>
   <li><b>Objective:</b> Guess the hidden word by guessing letters.</li>
   <li><b>Hints:</b> A category-based hint (e.g., <i>Bird</i>) is displayed to guide players.</li>
@@ -16,7 +16,7 @@
 
 ---
 
-<h2>✨ Features.</h2>
+<h2>✨ Features</h2>
 <ul>
   <li><b>Hint System:</b> Helps players by providing word categories.</li>
   <li><b>Real-Time Feedback:</b> Updates the word and hangman figure dynamically based on guesses.</li>
